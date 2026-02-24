@@ -1,5 +1,6 @@
 👋 Ahoy! I’m Mario
 Future Mobile App Developer™ | Bulldog Peacekeeper | LEGO Pirate Admiral | Code Wrangler
+
 I’m currently studying Mobile App Development at Trios College, where I spend my days learning how to convince code to behave and my nights Googling why it didn’t.
 
 📱 What I’m Building (or Breaking)
