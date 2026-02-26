@@ -1,5 +1,5 @@
 👋 Ahoy! I’m Mario
-
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/4ea4ac6f-f9c3-43d5-b3ab-efe8d4e5ef32" />
 Future Mobile App Developer™ | Bulldog Peacekeeper | LEGO Pirate Admiral | Code Wrangler
 
 I’m currently studying Mobile App Development at Trios College, where I spend my days learning how to convince code to behave and my nights Googling why it didn’t.
