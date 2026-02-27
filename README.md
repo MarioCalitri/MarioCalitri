@@ -43,3 +43,4 @@ And no, I will not apologize.
 🚀 Want to Connect?
 Open to collaboration, feedback, or LEGO pirate ship recommendations.
 (Seriously. Always open to pirate ships.)
+<img width="700" height="740" alt="image" src="https://github.com/user-attachments/assets/16980100-ce3f-4d45-8598-0ad479f58751" />
